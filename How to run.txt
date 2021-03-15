@@ -1,0 +1,7 @@
+install node js in your PC.
+open command prompt in your folder containing project source code.
+write npm install
+write npm start 
+may take 5 mins
+goto webbrowser and write (localhost:3007) may be change see cmd last lines 
+write a query in search box and fetch results
